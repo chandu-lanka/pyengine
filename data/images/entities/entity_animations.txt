@@ -1,0 +1,1 @@
+enemy/idle/ 1 loop
